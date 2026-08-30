@@ -4,3 +4,5 @@
 .env.*
 
 cloned_github_repo/
+
+chroma_storage/
