@@ -1,0 +1,4 @@
+🚀 ContextCode – AI-Powered Code Intelligence & Workspace Analysis
+ContextCode is a sleek, professional-grade Streamlit application that transforms your codebase into an intelligent, conversational workspace. Powered by ChromaDB vector storage and OpenRouter’s free LLM (poolside/laguna-m.1), it lets you chat with your code, analyze Git diffs, and explore every file in real-time—all from a polished, dark‑themed dashboard.
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python"/> <img src="https://img.shields.io/badge/Streamlit-1.29%2B-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit"/> <img src="https://img.shields.io/badge/ChromaDB-0.5.0-purple?style=for-the-badge&logo=chroma" alt="ChromaDB"/> <img src="https://img.shields.io/badge/OpenRouter-API-orange?style=for-the-badge" alt="OpenRouter"/> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/> </p>
