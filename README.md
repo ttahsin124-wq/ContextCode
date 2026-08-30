@@ -173,6 +173,15 @@ pip install streamlit chromadb langchain-text-splitters python-dotenv tenacity o
 ---
 ## 🎥 Watch the Demo
 
+<p align="center">
+  <a href="https://youtu.be/cpCOdoXYnG0" target="_blank">
+    <img src="Screenshot 2026-08-30 124811.png" alt="ContextCode Demo" width="800"/>
+  </a>
+  <br/>
+  <em>👆 Click the image above to watch the full demo on YouTube</em>
+</p>
+
+---
 
 ## ⚠️ Known Limitations
 
