@@ -171,6 +171,8 @@ pip install streamlit chromadb langchain-text-splitters python-dotenv tenacity o
 - Fully **responsive three-column layout** for a true "workspace" feel
 
 ---
+## 🎥 Watch the Demo
+
 
 ## ⚠️ Known Limitations
 
